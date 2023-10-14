@@ -4,3 +4,5 @@ For the Client I used Typescript and React, for the API I used GraphQL and for t
 
 
 Avgoustinos Zigos.
+
+Note: Client.zip will be reuploaded soon.
