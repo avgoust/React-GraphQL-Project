@@ -1,0 +1,7 @@
+.navbar {
+    height: 10vh;
+    width: 20%; 
+}
+.navbar .ant-menu-item a {
+    text-decoration: none;
+}

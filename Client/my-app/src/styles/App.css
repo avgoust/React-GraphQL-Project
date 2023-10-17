@@ -1,0 +1,13 @@
+.AddButton{
+    margin-left: 94.5%;
+}
+.Ok_Cancel{
+    margin-left: 70%;
+
+    .OK{
+        margin-right:2%;
+    }
+}
+.loading{
+    text-align: center;
+}
