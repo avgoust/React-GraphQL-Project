@@ -4,6 +4,7 @@ This repository contains a full-stack application consisting of a React client a
 📁 Project Structure
 Client:
 Front-end application built with React and TypeScript.
+
 GraphQL Server:
 Back-end API built with GraphQL, connected to a MongoDB database.
 
