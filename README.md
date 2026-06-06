@@ -14,7 +14,9 @@ Back-end API built with GraphQL, connected to a MongoDB database.
 🛠️ Tech Stack
 
 Frontend: React, TypeScript
+
 Backend: GraphQL, Node.js
+
 Database: MongoDB (managed via MongoDB Compass)
 
 ⚙️ Setup & Configuration
